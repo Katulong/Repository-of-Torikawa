@@ -1,6 +1,5 @@
 # Repository-of-Torikawa
-## Place where I put my own works  
-## 作品置き場
+## Place where I put my own works / 作品置き場  
 
 
 
